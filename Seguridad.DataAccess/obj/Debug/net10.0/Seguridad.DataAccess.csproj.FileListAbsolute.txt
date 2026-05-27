@@ -1,0 +1,14 @@
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\bin\Debug\net10.0\Seguridad.DataAccess.deps.json
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\bin\Debug\net10.0\Seguridad.DataAccess.runtimeconfig.json
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\bin\Debug\net10.0\Seguridad.DataAccess.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\bin\Debug\net10.0\Seguridad.DataAccess.pdb
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\obj\Debug\net10.0\Seguridad.DataAccess.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\obj\Debug\net10.0\Seguridad.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\obj\Debug\net10.0\Seguridad.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\obj\Debug\net10.0\Seguridad.DataAccess.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\obj\Debug\net10.0\Seguridad.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\obj\Debug\net10.0\Seguridad.DataAccess.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\obj\Debug\net10.0\refint\Seguridad.DataAccess.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\obj\Debug\net10.0\Seguridad.DataAccess.pdb
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\obj\Debug\net10.0\Seguridad.DataAccess.genruntimeconfig.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataAccess\obj\Debug\net10.0\ref\Seguridad.DataAccess.dll

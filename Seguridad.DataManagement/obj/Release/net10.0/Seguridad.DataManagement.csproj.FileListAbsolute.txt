@@ -1,0 +1,15 @@
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\bin\Release\net10.0\Seguridad.DataManagement.deps.json
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\bin\Release\net10.0\Seguridad.DataManagement.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\bin\Release\net10.0\Seguridad.DataManagement.pdb
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\bin\Release\net10.0\Seguridad.DataAccess.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\bin\Release\net10.0\Seguridad.DataAccess.pdb
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\obj\Release\net10.0\Seguridad.DataManagement.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\obj\Release\net10.0\Seguridad.DataManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\obj\Release\net10.0\Seguridad.DataManagement.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\obj\Release\net10.0\Seguridad.DataManagement.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\obj\Release\net10.0\Seguridad.DataManagement.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\obj\Release\net10.0\Segurida.FBDCC0C3.Up2Date
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\obj\Release\net10.0\Seguridad.DataManagement.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\obj\Release\net10.0\refint\Seguridad.DataManagement.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\obj\Release\net10.0\Seguridad.DataManagement.pdb
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.DataManagement\obj\Release\net10.0\ref\Seguridad.DataManagement.dll

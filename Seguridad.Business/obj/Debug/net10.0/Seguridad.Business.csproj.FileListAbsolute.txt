@@ -1,0 +1,17 @@
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\bin\Debug\net10.0\Seguridad.Business.deps.json
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\bin\Debug\net10.0\Seguridad.Business.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\bin\Debug\net10.0\Seguridad.Business.pdb
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\bin\Debug\net10.0\Seguridad.DataAccess.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\bin\Debug\net10.0\Seguridad.DataManagement.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\bin\Debug\net10.0\Seguridad.DataManagement.pdb
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\bin\Debug\net10.0\Seguridad.DataAccess.pdb
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\obj\Debug\net10.0\Seguridad.Business.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\obj\Debug\net10.0\Seguridad.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\obj\Debug\net10.0\Seguridad.Business.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\obj\Debug\net10.0\Seguridad.Business.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\obj\Debug\net10.0\Seguridad.Business.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\obj\Debug\net10.0\Segurida.4B5F6E0D.Up2Date
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\obj\Debug\net10.0\Seguridad.Business.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\obj\Debug\net10.0\refint\Seguridad.Business.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\obj\Debug\net10.0\Seguridad.Business.pdb
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Business\obj\Debug\net10.0\ref\Seguridad.Business.dll

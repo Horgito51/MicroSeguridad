@@ -1,0 +1,12 @@
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Contracts\bin\Debug\net10.0\Seguridad.Contracts.deps.json
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Contracts\bin\Debug\net10.0\Seguridad.Contracts.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Contracts\bin\Debug\net10.0\Seguridad.Contracts.pdb
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Contracts\obj\Debug\net10.0\Seguridad.Contracts.csproj.AssemblyReference.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Contracts\obj\Debug\net10.0\Seguridad.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Contracts\obj\Debug\net10.0\Seguridad.Contracts.AssemblyInfoInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Contracts\obj\Debug\net10.0\Seguridad.Contracts.AssemblyInfo.cs
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Contracts\obj\Debug\net10.0\Seguridad.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Contracts\obj\Debug\net10.0\Seguridad.Contracts.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Contracts\obj\Debug\net10.0\refint\Seguridad.Contracts.dll
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Contracts\obj\Debug\net10.0\Seguridad.Contracts.pdb
+C:\Users\jorge\OneDrive\Escritorio\Puce\Semestre 6\Integracion de sistemas\MicroFinal - No dockers\Microservicio.Seguridad\Seguridad.Contracts\obj\Debug\net10.0\ref\Seguridad.Contracts.dll

@@ -1,0 +1,184 @@
+syntax = "proto3";
+
+package hotel.seguridad.v1;
+
+option csharp_namespace = "Seguridad.Contracts.Grpc.V1";
+
+import "google/protobuf/empty.proto";
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/wrappers.proto";
+
+service AuthGrpc {
+  rpc Login(LoginRequest) returns (LoginResponse);
+  rpc RegisterCliente(RegisterClienteRequest) returns (LoginResponse);
+  rpc RefreshToken(RefreshTokenRequest) returns (LoginResponse);
+  rpc Logout(LogoutRequest) returns (google.protobuf.Empty);
+  rpc CambiarPassword(CambiarPasswordRequest) returns (google.protobuf.Empty);
+  rpc ValidateToken(ValidateTokenRequest) returns (ValidateTokenResponse);
+}
+
+service UsuarioGrpc {
+  rpc GetUsuarioById(IdRequest) returns (Usuario);
+  rpc GetUsuarioByGuid(GuidRequest) returns (Usuario);
+  rpc ListUsuarios(PageRequest) returns (UsuarioPage);
+  rpc CreateUsuario(UsuarioCreateRequest) returns (Usuario);
+  rpc UpdateUsuario(UsuarioUpdateRequest) returns (google.protobuf.Empty);
+  rpc DeleteUsuario(IdRequest) returns (google.protobuf.Empty);
+  rpc InhabilitarUsuario(InhabilitarUsuarioRequest) returns (google.protobuf.Empty);
+  rpc AsociarCliente(AsociarClienteRequest) returns (google.protobuf.Empty);
+}
+
+service RolGrpc {
+  rpc GetRolById(IdRequest) returns (Rol);
+  rpc GetRolByGuid(GuidRequest) returns (Rol);
+  rpc ListRoles(PageRequest) returns (RolPage);
+  rpc CreateRol(RolUpsertRequest) returns (Rol);
+  rpc UpdateRol(RolUpdateRequest) returns (google.protobuf.Empty);
+  rpc DeleteRol(IdRequest) returns (google.protobuf.Empty);
+  rpc InhabilitarRol(InhabilitarRolRequest) returns (google.protobuf.Empty);
+}
+
+message IdRequest { int32 id = 1; }
+message GuidRequest { string guid = 1; }
+message PageRequest { int32 page_number = 1; int32 page_size = 2; }
+
+message LoginRequest {
+  string username = 1;
+  string password = 2;
+}
+
+message RegisterClienteRequest {
+  string nombres = 1;
+  string apellidos = 2;
+  string correo = 3;
+  string username = 4;
+  string password = 5;
+  string confirm_password = 6;
+}
+
+message LoginResponse {
+  string token = 1;
+  string refresh_token = 2;
+  int32 expires_in = 3;
+  google.protobuf.Int32Value id_cliente = 4;
+  google.protobuf.StringValue cliente_guid = 5;
+  string usuario_guid = 6;
+  string username = 7;
+  string correo = 8;
+  string nombre_completo = 9;
+  repeated string roles = 10;
+  int32 usuario_id = 11;
+  string expiration = 12;
+}
+
+message RefreshTokenRequest { string refresh_token = 1; }
+message LogoutRequest { string refresh_token = 1; }
+
+message CambiarPasswordRequest {
+  int32 id_usuario = 1;
+  string password_actual = 2;
+  string password_nuevo = 3;
+  string usuario = 4;
+}
+
+message ValidateTokenRequest { string token = 1; }
+message ValidateTokenResponse { bool valido = 1; }
+
+message Rol {
+  int32 id_rol = 1;
+  string rol_guid = 2;
+  string nombre_rol = 3;
+  string descripcion_rol = 4;
+  string estado_rol = 5;
+  bool es_eliminado = 6;
+  bool activo = 7;
+  google.protobuf.Timestamp fecha_registro_utc = 8;
+  google.protobuf.Timestamp fecha_modificacion_utc = 9;
+  bytes row_version = 10;
+}
+
+message RolUpsertRequest {
+  string nombre_rol = 1;
+  string descripcion_rol = 2;
+  string estado_rol = 3;
+  bool activo = 4;
+}
+
+message RolUpdateRequest {
+  int32 id_rol = 1;
+  RolUpsertRequest data = 2;
+}
+
+message RolPage {
+  repeated Rol items = 1;
+  int32 total_count = 2;
+  int32 page_number = 3;
+  int32 page_size = 4;
+}
+
+message Usuario {
+  int32 id_usuario = 1;
+  string usuario_guid = 2;
+  google.protobuf.Int32Value id_cliente = 3;
+  string username = 4;
+  string correo = 5;
+  string nombres = 6;
+  string apellidos = 7;
+  string estado_usuario = 8;
+  bool es_eliminado = 9;
+  bool activo = 10;
+  repeated Rol roles = 11;
+  google.protobuf.Timestamp fecha_registro_utc = 12;
+  bytes row_version = 13;
+}
+
+message UsuarioCreateRequest {
+  google.protobuf.Int32Value id_cliente = 1;
+  google.protobuf.StringValue cliente_guid = 2;
+  string username = 3;
+  string correo = 4;
+  string password = 5;
+  string nombres = 6;
+  string apellidos = 7;
+  string estado_usuario = 8;
+  bool activo = 9;
+  google.protobuf.Int32Value id_rol = 10;
+  google.protobuf.StringValue rol_guid = 11;
+  repeated Rol roles = 12;
+}
+
+message UsuarioUpdateRequest {
+  int32 id_usuario = 1;
+  string correo = 2;
+  string nombres = 3;
+  string apellidos = 4;
+  string estado_usuario = 5;
+  bool activo = 6;
+  repeated Rol roles = 7;
+  bytes row_version = 8;
+}
+
+message UsuarioPage {
+  repeated Usuario items = 1;
+  int32 total_count = 2;
+  int32 page_number = 3;
+  int32 page_size = 4;
+}
+
+message InhabilitarUsuarioRequest {
+  int32 id_usuario = 1;
+  string motivo = 2;
+  string usuario = 3;
+}
+
+message InhabilitarRolRequest {
+  int32 id_rol = 1;
+  string motivo = 2;
+  string usuario = 3;
+}
+
+message AsociarClienteRequest {
+  int32 id_usuario = 1;
+  int32 id_cliente = 2;
+  string usuario = 3;
+}

@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Seguridad.API/Seguridad.API.csproj" />
+    <Project Path="Seguridad.Business/Seguridad.Business.csproj" />
+    <Project Path="Seguridad.Contracts/Seguridad.Contracts.csproj" />
+    <Project Path="Seguridad.DataAccess/Seguridad.DataAccess.csproj" />
+    <Project Path="Seguridad.DataManagement/Seguridad.DataManagement.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
